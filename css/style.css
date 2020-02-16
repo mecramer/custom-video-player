@@ -64,6 +64,7 @@ h1 {
   margin-left: 10px;
 }
 
+/* for testing only, this is bad for accessibility */
 .btn:focus {
   outline: 0;
 }
